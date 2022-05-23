@@ -1,0 +1,14 @@
+name: ast
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - matplotlib
+  - seaborn
+  - h5py
+  - ipyparallel
+  - graphviz
+  - jupyter_nbextensions_configurator
+  - jupyterlab
+prefix: /opt/anaconda3/envs/ast
